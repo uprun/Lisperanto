@@ -1,1 +1,0 @@
-﻿{"name@lisperanto":"body_onmouseout","type@lisperanto":"function","module@lisperanto":"lisperanto","programming-language@lisperanto":"javascript","javascript-function-definition@lisperanto":"function()\r\n{\r\n    lisperanto.body_is_dragged(false);\r\n}"}

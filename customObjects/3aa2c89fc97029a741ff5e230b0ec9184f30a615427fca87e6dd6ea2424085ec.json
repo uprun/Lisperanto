@@ -1,1 +1,0 @@
-﻿{"name@lisperanto":"hideMenu","type@lisperanto":"function","module@lisperanto":"lisperanto","programming-language@lisperanto":"javascript","javascript-function-definition@lisperanto":"function()\n{\n    if(lisperanto.menuIsOpen())\n    {\n        lisperanto.toggleMenu();\n    }\n}"}

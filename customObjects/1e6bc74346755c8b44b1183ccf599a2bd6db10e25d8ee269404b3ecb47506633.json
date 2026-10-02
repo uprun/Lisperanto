@@ -1,1 +1,0 @@
-﻿{"name@lisperanto":"backgroundApplySaved","type@lisperanto":"function","module@lisperanto":"lisperanto","programming-language@lisperanto":"javascript","javascript-function-definition@lisperanto":"function() \n{\n    var background = localStorage[\"backgroundColor\"] || \"#000000\";\n    lisperanto.backgroundColor(background);\n}"}
