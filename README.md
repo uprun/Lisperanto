@@ -1,14 +1,9 @@
-# Lyspen
-Lyspen (previously Lisperanto) is an AST structured editor.
+# Lisperanto
+Lisperanto - am exploring AST approach one more time.
+
+Though AST editors have been here for a while the software industry still hodls to text representation, I wonder why.
 
 designed &#127912; and made &#127959;&#65039; by ukrainian &#127482;&#127462;
-
-# Name choice
-
-Lyspeniatko is an imaginary combination of fox cub and Lisp in Ukrainian, 
-
-But the full name will be hard to pronounce for English speakers that is why I selected shorter version.
-
 
 # Support me on Patreon
 
